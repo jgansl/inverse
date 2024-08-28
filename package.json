@@ -42,7 +42,7 @@
          "npx next lint --fix",
          "npx prettier --write"
       ],
-      "*.{json,css,md}": [
+      "**/*.{json,css,md}": [
          "npx prettier --write"
       ]
    }
