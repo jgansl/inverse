@@ -38,7 +38,7 @@
       "typescript": "^5"
    },
    "lint-staged": {
-      "/src/**/*.{js,jsx,ts,tsx}": [
+      "**/*.{js,jsx,ts,tsx}": [
          "npx next lint --fix",
          "npx prettier --write"
       ],
