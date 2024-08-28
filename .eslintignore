@@ -1,0 +1,8 @@
+node_modules/
+.next/
+public/
+out/
+coverage/
+dist/
+*.min.js
+*.config.js
